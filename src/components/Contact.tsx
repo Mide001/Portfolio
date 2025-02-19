@@ -54,7 +54,7 @@ export default function Contact() {
           </div>
 
           <motion.button
-            className="mt-12 px-8 py-3 bg-indigo-500 text-white rounded-lg font-semibold 
+            className="mt-12 px-8 py-3 bg-gradient-to-r from-indigo-400 to-purple-400 text-white rounded-lg font-semibold 
                        hover:bg-indigo-600 transition-colors"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
